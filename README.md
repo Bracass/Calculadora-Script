@@ -1,8 +1,8 @@
 # Calculadora en javascript
 
 ## Intregrantes:
-- Kevin Alexander Diaz 
-- Brayan G Castañeda 2019Catastral
+- Kevin Alexander Diaz 20162020105
+- Brayan G Castañeda 201602020110
 - Sebastian Duque Gallego 20162020039
 
 ## Contenido:
